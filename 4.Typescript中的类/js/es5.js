@@ -1,11 +1,11 @@
 /**
  * es5中的类
- * 内容为：类的创建、静态方法、继承（对象冒充继承，原型链继承，对象冒充 + 原型链组合继承）
+ * 内容为：类的定义、静态方法、继承（对象冒充继承，原型链继承，对象冒充 + 原型链组合继承）
  * 了解本质看这个文档觉得很好http://caibaojian.com/javascript-object-5.html
  */
 
 /**
- * 1.类的创建
+ * 1.类的定义
  * es5类在构造函数和原型链里都可以添加属性和方法，原型链上的属性会被多个实例所共享，而构造函数则不会
 */
 function Person() {
@@ -44,13 +44,13 @@ function Worker(name,age){
     this.name=name;  /*属性*/
     this.age=age;
     this.run=function(){  /*实例方法*/
-        alert(this.name+'在运动');
+        console.log(this.name+'在运动');
     }
 
 }      
 Worker.prototype.sex="男";
 Worker.prototype.work=function(){
-    alert(this.name+'在工作');
+    console.log(this.name+'在工作');
 }
     
 function Web(name,age){
@@ -62,5 +62,3 @@ Web.prototype = Worker.prototype;  //原型链继承方法二：优化了方法�
 var w = new Web('赵四',20);   
 w.run();
 w.work();
-
-
