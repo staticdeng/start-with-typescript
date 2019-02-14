@@ -10,14 +10,14 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 
 ## 列表
 
-* 1: [TypeScript 介绍、TypeScript 安装、TypeScript 开发工具](https://github.com/dzfrontend/start-with-TypeScript/blob/master/1.Typescript%20%E4%BB%8B%E7%BB%8D%E3%80%81Typescript%20%E5%AE%89%E8%A3%85%E3%80%81Typescript%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
+* 1: [TypeScript安装编译](./1.TypeScript安装编译/)
 
-* 2: [TypeScript数据类型](https://github.com/dzfrontend/start-with-TypeScript/blob/master/2.Typescript%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+* 2: [TypeScript数据类型](./2.TypeScript数据类型/)
 
-* 3: [TypeScript函数](https://github.com/dzfrontend/start-with-TypeScript/blob/master/3.Typescript%E5%87%BD%E6%95%B0.md)
+* 3: [TypeScript函数](./3.TypeScript函数/)
 
-* 4: [TypeScript中的类](https://github.com/dzfrontend/start-with-TypeScript/blob/master/4.Typescript%E4%B8%AD%E7%9A%84%E7%B1%BB.md)
+* 4: [TypeScript中的类](./4.TypeScript中的类/)
 
-* 5: [TypeScript接口](https://github.com/dzfrontend/start-with-TypeScript/blob/master/5.Typescript%E6%8E%A5%E5%8F%A3.md)
+* 5: [TypeScript接口](./5.TypeScript接口/)
 
-* 6: [TypeScript泛型](https://github.com/dzfrontend/start-with-TypeScript/blob/master/6.Typescript%E6%B3%9B%E5%9E%8B.md)
+* 6: [TypeScript泛型](./6.TypeScript泛型/)
