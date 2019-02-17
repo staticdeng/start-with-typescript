@@ -1,4 +1,4 @@
-# Typescript中的类 
+# TypeScript类 
 
 ## es5中的类
 
@@ -288,3 +288,5 @@ var d = new DogAbst('小花花');
 console.log('抽象类和抽象方法',d.eat());
 
 ```
+
+例子中源代码在当前文件夹

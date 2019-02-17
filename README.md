@@ -8,7 +8,13 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 
 在编写代码的阶段，TypeScript就能够找到大部分的错误，而JavaScript在这方面就没那么友好了。要知道，运行时错误越少，你的程序的bug就越少。除此之外，相比JavaScript，TypeScript的重构也更容易。
 
-## 列表
+供参考文档：
+
+* [官网](https://www.tslang.cn/docs/home.html)
+
+* [Github-TypeScript使用手册](https://github.com/zhongsp/TypeScript)
+
+## TypeScript基础
 
 * 1: [TypeScript安装编译](./1.TypeScript安装编译/)
 
@@ -16,8 +22,12 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 
 * 3: [TypeScript函数](./3.TypeScript函数/)
 
-* 4: [TypeScript中的类](./4.TypeScript中的类/)
+* 4: [TypeScript类](./4.TypeScript类/)
 
 * 5: [TypeScript接口](./5.TypeScript接口/)
 
 * 6: [TypeScript泛型](./6.TypeScript泛型/)
+
+* 7: [TypeScript类型推论](./7.TypeScript类型推论/)
+
+* 8: [TypeScript高级类型](./8.TypeScript高级类型/)
