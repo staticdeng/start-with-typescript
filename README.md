@@ -31,3 +31,5 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 * 7: [TypeScript类型推论](./7.TypeScript类型推论/)
 
 * 8: [TypeScript高级类型](./8.TypeScript高级类型/)
+
+* 9: [TypeScript装饰器](./9.TypeScript装饰器/)
