@@ -16,20 +16,20 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 
 ## TypeScript基础
 
-* 1: [TypeScript安装编译](./1.TypeScript安装编译/)
+* 1: [TypeScript安装编译](https://github.com/dzfrontend/start-with-typescript/tree/master/1.TypeScript安装编译/)
 
-* 2: [TypeScript数据类型](./2.TypeScript数据类型/)
+* 2: [TypeScript数据类型](https://github.com/dzfrontend/start-with-typescript/tree/master/2.TypeScript数据类型/)
 
-* 3: [TypeScript函数](./3.TypeScript函数/)
+* 3: [TypeScript函数](https://github.com/dzfrontend/start-with-typescript/tree/master/3.TypeScript函数/)
 
-* 4: [TypeScript类](./4.TypeScript类/)
+* 4: [TypeScript类](https://github.com/dzfrontend/start-with-typescript/tree/master/4.TypeScript类/)
 
-* 5: [TypeScript接口](./5.TypeScript接口/)
+* 5: [TypeScript接口](https://github.com/dzfrontend/start-with-typescript/tree/master/5.TypeScript接口/)
 
-* 6: [TypeScript泛型](./6.TypeScript泛型/)
+* 6: [TypeScript泛型](https://github.com/dzfrontend/start-with-typescript/tree/master/6.TypeScript泛型/)
 
-* 7: [TypeScript类型推论](./7.TypeScript类型推论/)
+* 7: [TypeScript类型推论](https://github.com/dzfrontend/start-with-typescript/tree/master/7.TypeScript类型推论/)
 
-* 8: [TypeScript高级类型](./8.TypeScript高级类型/)
+* 8: [TypeScript高级类型](https://github.com/dzfrontend/start-with-typescript/tree/master/8.TypeScript高级类型/)
 
-* 9: [TypeScript装饰器](./9.TypeScript装饰器/)
+* 9: [TypeScript装饰器](https://github.com/dzfrontend/start-with-typescript/tree/master/9.TypeScript装饰器/)
