@@ -33,3 +33,7 @@ TypeScript是一种纯面向对象的语言。相比JavaScript，它更能提高
 * 8: [TypeScript高级类型](https://github.com/dzfrontend/start-with-typescript/tree/master/8.TypeScript高级类型/)
 
 * 9: [TypeScript装饰器](https://github.com/dzfrontend/start-with-typescript/tree/master/9.TypeScript装饰器/)
+
+## TypeScript使用
+
+* 1: [webpack如何编译typescript](https://github.com/dzfrontend/webpack/tree/webpack3/webpack3/3.webpack%E7%BC%96%E8%AF%91typescript)
